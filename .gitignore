@@ -37,3 +37,8 @@ tags
 
 # Emacs
 *~
+
+# Virtualenv
+/include
+/lib
+/man
